@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Fri
 Sat
 sun
+=======
+Mon
+Tue
+Wed
+Thur
+[1]+ Stopped           cat >> c1.txt
+>>>>>>> fb
